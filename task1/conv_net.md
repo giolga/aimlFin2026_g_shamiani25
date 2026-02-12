@@ -35,7 +35,7 @@ Key parameters:
 
 ### Visualization -- Convolution Output
 
-![Convolution Example](convolution_example.png)
+![img.png](img.png)
 
 ------------------------------------------------------------------------
 
@@ -53,9 +53,6 @@ Pooling reduces spatial dimensions and computational complexity.
 
 Most common: **Max Pooling**
 
-### Visualization -- Pooling Output
-
-![Pooling Example](pooling_example.png)
 
 ------------------------------------------------------------------------
 
